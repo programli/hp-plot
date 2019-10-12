@@ -12,3 +12,8 @@ buffer.
 If output is too faint slow the pen down by adding a VS command to the
 HPGL just after the IN; command. VS1 worked well last time with how
 dried the pens were.
+Hello,
+Your "hp-plot" project on GitHub is greate!
+How to use hp-plot.sh to convert PostScript to HPGL using GhostScript and hpgl.ps?
+Could you teach me step by step for screen capture, or write it on GitHub. Thank you very much.
+
